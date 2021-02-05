@@ -1,0 +1,59 @@
+.navbar {
+  border-bottom: 1px solid #ffff;
+  background: rgba(0, 151, 19, 0.3); }
+  .navbar .nav-item {
+    padding-left: 1em !important; }
+    .navbar .nav-item .nav-link {
+      text-transform: uppercase; }
+
+.carousel-item {
+  height: 100vh; }
+
+.carousel-img-1 {
+  background: url("https://www.anwarlandmark.com/wp-content/uploads/2020/01/1-1-1.jpg") no-repeat;
+  background-size: cover; }
+
+.carousel-img-2 {
+  background: url("https://www.anwarlandmark.com/wp-content/uploads/2020/01/2-i.jpg)") no-repeat;
+  background-size: cover; }
+
+.carousel-img-3 {
+  background: url("https://www.anwarlandmark.com/wp-content/uploads/2020/01/3-2.jpg") no-repeat;
+  background-size: cover; }
+
+.carousel-img-4 {
+  background: url("https://www.anwarlandmark.com/wp-content/uploads/2020/01/4-2.jpg") no-repeat;
+  background-size: cover; }
+
+.carousel-img-5 {
+  background: url("https://www.anwarlandmark.com/wp-content/uploads/2020/01/5-2.jpg") no-repeat;
+  background-size: cover; }
+
+.carousel-img-6 {
+  background: url("https://www.anwarlandmark.com/wp-content/uploads/2020/01/6.jpg") no-repeat;
+  background-size: cover; }
+
+.carousel-img-7 {
+  background: url("https://www.anwarlandmark.com/wp-content/uploads/2020/01/7-1.jpg") no-repeat;
+  background-size: cover; 
+}
+
+blockquote {
+  border-left: 5px solid green; }
+  blockquote h6 {
+    padding: 2px;
+    color: green;
+    font-weight: bold; 
+  }
+
+ /* .slider-1{ */
+      /* height: 500px; */
+      /* background-color: ; */
+      /* background-image: url("https://www.anwarlandmark.com/wp-content/uploads/2019/05/background.png?id=64");
+      background-repeat: no-repeat;
+      background-position: left;
+  }  */
+
+
+
+  
